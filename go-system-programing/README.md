@@ -14,3 +14,6 @@ channelで並列処理がとても簡単にできる。goroutineで必要な時�
 
 ### chap 6 memorandom
 tcpとHTTPによるソケット通信についての内容。HTTP1についての基礎的な学習でHTTP通信とはどんなものなのかを学習して、その高速化手法としてKeep-Aliveや並列処理などを行った。どのようなプロセスを経てHTTP2へと変化したのかについての内容もあり勉強になった。
+
+### chap 7 memorandom
+udpを使用したネットワーク通信について。いろいろ調べたがmulticastがうまく動かなかったwindowsのfirewallとかが怪しい？
