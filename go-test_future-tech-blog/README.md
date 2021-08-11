@@ -1,6 +1,12 @@
 # Go Test 入門
 参考：https://future-architect.github.io/articles/20200601/
 
+### memo
+任意のテスト実行
+```shell
+go test -run Test???
+```
+
 ## testの失敗をレポート
 - T.Error(T.Errorf)はアサーションのみ
 - T.Fatal(T.Fatalf)はアサーションし、以降のテストを無視する
