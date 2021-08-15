@@ -13,8 +13,8 @@ func main() {
 	fmt.Println(LongAdd(1, 2))
 }
 
-//
 //func TestSkip(t *testing.T) {
+////
 //	type args struct {
 //		a int
 //		b int
